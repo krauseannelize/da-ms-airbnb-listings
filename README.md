@@ -9,3 +9,4 @@
 ## Quick Access
 
 - [Raw Data](https://drive.google.com/file/d/13viujaEH_m9-qdF7bPk61IGeKeRBJPvz/view?usp=drive_link)
+- [Metadata](/airbnb-metadata.md)
