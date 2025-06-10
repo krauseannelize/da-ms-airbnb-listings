@@ -25,3 +25,13 @@ In the first part of this tutorial series, a solid foundation in Tableau is esta
 - Differentiating between continuous and discrete fields
 - Creating tables to organize and summarize data
 - Applying filters to refine visualizations
+
+## Part 2: Charts, Charts, Charts!
+
+This section focuses on transforming Airbnb data into compelling visualizations by experimenting with various chart types and developing the skills needed to uncover trends, patterns, and insights. Key visualization techniques explored include:
+
+- Heatmaps to visualize seasonal trans
+- Scatter plots to examine price and review correlations
+- Geographic maps showcasing Airbnb hosts distribution by city
+- Area charts to track number of hosts per country over time
+- Creative visualizations such as tree maps to explore the distribution of listings by property type
