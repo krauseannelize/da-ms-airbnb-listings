@@ -45,7 +45,6 @@ The tutorial series culminates with a simple dashboard introducing fundamental d
 - Designing interactive elements for user engagement
 - Integrating multiple visualizations into a cohesive layout
 
-## Airbnb Branding
+## Airbnb Branding Notes
 
 Hex Color:  #FF5A5F
-[Airbnb Logo](/airbnb-logo.png)
