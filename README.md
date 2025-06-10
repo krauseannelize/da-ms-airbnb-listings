@@ -35,3 +35,11 @@ This section focuses on transforming Airbnb data into compelling visualizations 
 - Geographic maps showcasing Airbnb hosts distribution by city
 - Area charts to track number of hosts per country over time
 - Creative visualizations such as tree maps to explore the distribution of listings by property type
+
+## Part 3: Building Dashboards
+
+The tutorial series culminates with a simple dashboard introducing fundamental dashboard design principles that ensures clarity, usability, and effective data presentation. Key elements covered include:
+
+- Best practices for structuring dashboards
+- Designing interactive elements for user engagement
+- Integrating multiple visualizations into a cohesive layout
