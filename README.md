@@ -10,6 +10,7 @@
 
 - [Raw Data](https://drive.google.com/file/d/13viujaEH_m9-qdF7bPk61IGeKeRBJPvz/view?usp=drive_link)
 - [Metadata](/airbnb-metadata.md)
+- [Tableau Public Dashboard](https://public.tableau.com/app/profile/annelize.krause/viz/AirbnbListings_17494924337650/AirbnbStory)
 
 ## Project Overview
 
@@ -43,3 +44,5 @@ The tutorial series culminates with a simple dashboard introducing fundamental d
 - Best practices for structuring dashboards
 - Designing interactive elements for user engagement
 - Integrating multiple visualizations into a cohesive layout
+
+The Tableau Public Dashboard can be [viewed online](https://public.tableau.com/app/profile/annelize.krause/viz/AirbnbListings_17494924337650/AirbnbStory) and the workbook can be downloaded [here](/airbnb-listings.twb).
